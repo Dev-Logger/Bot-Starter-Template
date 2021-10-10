@@ -37,6 +37,8 @@ bot = commands.Bot(command_prefix = read["prefix"])
 @bot.event
 async def on_ready():
     print("Logged in as ", bot.user.name)
+    #----Loads the example_cog when the bot starts----#
+    bot.load_extension("cogs.example_cog")
     
 #----A simple command to use in you're bot
 @bot.command()
