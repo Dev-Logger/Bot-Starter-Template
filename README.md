@@ -40,5 +40,11 @@ Steps on how to use this starter template
 
 See the [open issues](https://github.com/dev-logger/Bot-Starter-Template/issues) for a full list of proposed features (and known issues).
 
+### TODO
+
+TODO:
+  bot.change_presence()
+  more commands
+
 
 
