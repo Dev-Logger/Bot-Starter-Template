@@ -43,8 +43,9 @@ See the [open issues](https://github.com/dev-logger/Bot-Starter-Template/issues)
 ### TODO
 
 TODO:
-  bot.change_presence()
-  more commands
+ 
+1. bot.change_presence()
+2. more commands
 
 
 
